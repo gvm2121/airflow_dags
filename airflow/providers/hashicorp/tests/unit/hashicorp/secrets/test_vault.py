@@ -61,7 +61,7 @@ class TestVaultSecrets:
             "mount_point": "airflow",
             "auth_type": "token",
             "url": "http://127.0.0.1:8200",
-            "token": "s.7AU0I51yv1Q1lxOIg1F3ZRAS",
+            "token": "",
         }
 
         test_client = VaultBackend(**kwargs)
@@ -104,7 +104,7 @@ class TestVaultSecrets:
             "mount_point": None,
             "auth_type": "token",
             "url": "http://127.0.0.1:8200",
-            "token": "s.7AU0I51yv1Q1lxOIg1F3ZRAS",
+            "token": "",
         }
 
         test_client = VaultBackend(**kwargs)
@@ -139,7 +139,7 @@ class TestVaultSecrets:
             "mount_point": "airflow",
             "auth_type": "token",
             "url": "http://127.0.0.1:8200",
-            "token": "s.7AU0I51yv1Q1lxOIg1F3ZRAS",
+            "token": "",
         }
 
         test_client = VaultBackend(**kwargs)
@@ -174,7 +174,7 @@ class TestVaultSecrets:
             "mount_point": None,
             "auth_type": "token",
             "url": "http://127.0.0.1:8200",
-            "token": "s.7AU0I51yv1Q1lxOIg1F3ZRAS",
+            "token": "",
         }
 
         test_client = VaultBackend(**kwargs)
@@ -222,7 +222,7 @@ class TestVaultSecrets:
             "mount_point": mount_point,
             "auth_type": "token",
             "url": "http://127.0.0.1:8200",
-            "token": "s.7AU0I51yv1Q1lxOIg1F3ZRAS",
+            "token": "",
             "kv_engine_version": 1,
         }
 
@@ -253,7 +253,7 @@ class TestVaultSecrets:
             "mount_point": "airflow",
             "auth_type": "token",
             "url": "http://127.0.0.1:8200",
-            "token": "s.7AU0I51yv1Q1lxOIg1F3ZRAS",
+            "token": "",
         }
 
         test_client = VaultBackend(**kwargs)
@@ -320,7 +320,7 @@ class TestVaultSecrets:
             "mount_point": "secret",
             "auth_type": "token",
             "url": "http://127.0.0.1:8200",
-            "token": "s.FnL7qg0YnHZDpf4zKKuFy0UK",
+            "token": "",
         }
 
         test_client = VaultBackend(**kwargs)
@@ -355,7 +355,7 @@ class TestVaultSecrets:
             "mount_point": None,
             "auth_type": "token",
             "url": "http://127.0.0.1:8200",
-            "token": "s.FnL7qg0YnHZDpf4zKKuFy0UK",
+            "token": "",
         }
 
         test_client = VaultBackend(**kwargs)
@@ -372,7 +372,7 @@ class TestVaultSecrets:
             "mount_point": "airflow",
             "auth_type": "token",
             "url": "http://127.0.0.1:8200",
-            "token": "s.FnL7qg0YnHZDpf4zKKuFy0UK",
+            "token": "",
         }
 
         test_client = VaultBackend(**kwargs)
@@ -389,7 +389,7 @@ class TestVaultSecrets:
             "mount_point": "airflow",
             "auth_type": "token",
             "url": "http://127.0.0.1:8200",
-            "token": "s.FnL7qg0YnHZDpf4zKKuFy0UK",
+            "token": "",
         }
 
         test_client = VaultBackend(**kwargs)
@@ -406,7 +406,7 @@ class TestVaultSecrets:
             "mount_point": "airflow",
             "auth_type": "token",
             "url": "http://127.0.0.1:8200",
-            "token": "s.FnL7qg0YnHZDpf4zKKuFy0UK",
+            "token": "",
         }
 
         test_client = VaultBackend(**kwargs)
