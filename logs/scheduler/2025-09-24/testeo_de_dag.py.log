@@ -1,0 +1,161 @@
+[2025-09-24T00:00:11.378+0000] {processor.py:161} INFO - Started process (PID=720) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:00:11.378+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:00:11.379+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:00:11.379+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:00:11.385+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:00:11.398+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:00:11.398+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:00:11.409+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:00:11.409+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:00:11.418+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.042 seconds
+[2025-09-24T00:00:41.502+0000] {processor.py:161} INFO - Started process (PID=728) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:00:41.504+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:00:41.505+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:00:41.505+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:00:41.511+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:00:41.524+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:00:41.524+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:00:41.535+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:00:41.535+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:00:41.545+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.044 seconds
+[2025-09-24T00:01:11.628+0000] {processor.py:161} INFO - Started process (PID=736) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:01:11.629+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:01:11.630+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:01:11.630+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:01:11.637+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:01:11.651+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:01:11.651+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:01:11.662+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:01:11.662+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:01:11.671+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.046 seconds
+[2025-09-24T00:01:41.753+0000] {processor.py:161} INFO - Started process (PID=744) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:01:41.754+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:01:41.755+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:01:41.755+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:01:41.761+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:01:41.775+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:01:41.775+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:01:41.786+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:01:41.786+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:01:41.794+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.043 seconds
+[2025-09-24T00:02:11.879+0000] {processor.py:161} INFO - Started process (PID=752) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:02:11.879+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:02:11.880+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:02:11.880+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:02:11.886+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:02:11.899+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:02:11.899+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:02:11.910+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:02:11.910+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:02:11.919+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.042 seconds
+[2025-09-24T00:02:41.998+0000] {processor.py:161} INFO - Started process (PID=760) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:02:41.999+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:02:42.000+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:02:42.000+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:02:42.006+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:02:42.019+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:02:42.019+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:02:42.029+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:02:42.029+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:02:42.038+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.041 seconds
+[2025-09-24T00:03:12.125+0000] {processor.py:161} INFO - Started process (PID=768) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:03:12.126+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:03:12.127+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:03:12.126+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:03:12.133+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:03:12.146+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:03:12.145+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:03:12.156+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:03:12.156+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:03:12.165+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.042 seconds
+[2025-09-24T00:03:42.258+0000] {processor.py:161} INFO - Started process (PID=776) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:03:42.259+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:03:42.260+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:03:42.260+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:03:42.266+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:03:42.279+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:03:42.279+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:03:42.290+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:03:42.290+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:03:42.298+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.042 seconds
+[2025-09-24T00:04:12.398+0000] {processor.py:161} INFO - Started process (PID=784) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:04:12.398+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:04:12.399+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:04:12.399+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:04:12.406+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:04:12.419+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:04:12.419+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:04:12.430+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:04:12.430+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:04:12.438+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.042 seconds
+[2025-09-24T00:04:42.523+0000] {processor.py:161} INFO - Started process (PID=792) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:04:42.524+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:04:42.525+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:04:42.525+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:04:42.531+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:04:42.544+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:04:42.544+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:04:42.554+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:04:42.554+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:04:42.562+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.040 seconds
+[2025-09-24T00:05:12.643+0000] {processor.py:161} INFO - Started process (PID=800) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:05:12.643+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:05:12.644+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:05:12.644+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:05:12.651+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:05:12.665+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:05:12.665+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:05:12.677+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:05:12.676+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:05:12.685+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.044 seconds
+[2025-09-24T00:05:42.770+0000] {processor.py:161} INFO - Started process (PID=808) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:05:42.770+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:05:42.771+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:05:42.771+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:05:42.777+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:05:42.789+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:05:42.789+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:05:42.799+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:05:42.799+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:05:42.806+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.039 seconds
+[2025-09-24T00:06:12.900+0000] {processor.py:161} INFO - Started process (PID=816) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:06:12.900+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:06:12.901+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:06:12.901+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:06:12.907+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:06:12.920+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:06:12.920+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:06:12.931+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:06:12.931+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:06:12.939+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.041 seconds
+[2025-09-24T00:06:43.028+0000] {processor.py:161} INFO - Started process (PID=824) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:06:43.029+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:06:43.030+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:06:43.030+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:06:43.036+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:06:43.049+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:06:43.049+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:06:43.060+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:06:43.060+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:06:43.068+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.042 seconds
+[2025-09-24T00:07:13.153+0000] {processor.py:161} INFO - Started process (PID=832) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:07:13.154+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:07:13.155+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:07:13.155+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:07:13.161+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:07:13.173+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:07:13.173+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:07:13.184+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:07:13.184+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:07:13.193+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.041 seconds
+[2025-09-24T00:07:43.274+0000] {processor.py:161} INFO - Started process (PID=840) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:07:43.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:07:43.276+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:07:43.275+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:07:43.282+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:07:43.295+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:07:43.295+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:07:43.306+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:07:43.306+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:07:43.314+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.042 seconds
+[2025-09-24T00:08:13.389+0000] {processor.py:161} INFO - Started process (PID=848) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:08:13.390+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:08:13.391+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:08:13.391+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:08:13.397+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:08:13.410+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:08:13.410+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:08:13.421+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:08:13.421+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:08:13.430+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.042 seconds
+[2025-09-24T00:08:43.508+0000] {processor.py:161} INFO - Started process (PID=856) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:08:43.509+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:08:43.510+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:08:43.510+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:08:43.517+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:08:43.531+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:08:43.531+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:08:43.542+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:08:43.542+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:08:43.552+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.046 seconds
+[2025-09-24T00:09:13.638+0000] {processor.py:161} INFO - Started process (PID=864) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:09:13.638+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:09:13.639+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:09:13.639+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:09:13.645+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:09:13.658+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:09:13.658+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:09:13.669+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:09:13.669+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:09:13.677+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.041 seconds
+[2025-09-24T00:09:43.759+0000] {processor.py:161} INFO - Started process (PID=872) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:09:43.760+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:09:43.761+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:09:43.761+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:09:43.767+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:09:43.780+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:09:43.780+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:09:43.790+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:09:43.790+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:09:43.799+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.042 seconds
+[2025-09-24T00:10:13.887+0000] {processor.py:161} INFO - Started process (PID=880) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:10:13.888+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:10:13.889+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:10:13.888+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:10:13.895+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:10:13.908+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:10:13.908+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:10:13.919+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:10:13.919+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:10:13.927+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.042 seconds
+[2025-09-24T00:10:44.017+0000] {processor.py:161} INFO - Started process (PID=888) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:10:44.018+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:10:44.019+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:10:44.019+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:10:44.025+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:10:44.039+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:10:44.038+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:10:44.050+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:10:44.050+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:10:44.058+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.043 seconds
+[2025-09-24T00:11:14.141+0000] {processor.py:161} INFO - Started process (PID=896) to work on /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:11:14.142+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/testeo_de_dag.py for tasks to queue
+[2025-09-24T00:11:14.143+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:11:14.142+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:11:14.149+0000] {processor.py:840} INFO - DAG(s) 'dag_de_prueba' retrieved from /opt/airflow/dags/testeo_de_dag.py
+[2025-09-24T00:11:14.162+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:11:14.162+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-09-24T00:11:14.173+0000] {logging_mixin.py:188} INFO - [2025-09-24T00:11:14.173+0000] {dag.py:3834} INFO - Setting next_dagrun for dag_de_prueba to 2025-09-23 00:00:00+00:00, run_after=2025-09-24 00:00:00+00:00
+[2025-09-24T00:11:14.182+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/testeo_de_dag.py took 0.042 seconds

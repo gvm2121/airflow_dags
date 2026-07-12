@@ -1,0 +1,168 @@
+[2025-10-01T00:00:26.536+0000] {processor.py:161} INFO - Started process (PID=1510) to work on /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:00:26.537+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2025-10-01T00:00:26.538+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:00:26.538+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:00:26.540+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:00:26.540+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2025-10-01T00:00:26.540+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:00:26.551+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.016 seconds
+[2025-10-01T00:00:56.669+0000] {processor.py:161} INFO - Started process (PID=1518) to work on /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:00:56.670+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2025-10-01T00:00:56.671+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:00:56.671+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:00:56.673+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:00:56.673+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2025-10-01T00:00:56.673+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:00:56.685+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.018 seconds
+[2025-10-01T00:01:26.803+0000] {processor.py:161} INFO - Started process (PID=1526) to work on /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:01:26.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2025-10-01T00:01:26.805+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:01:26.805+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:01:26.807+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:01:26.807+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2025-10-01T00:01:26.807+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:01:26.818+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.017 seconds
+[2025-10-01T00:01:56.939+0000] {processor.py:161} INFO - Started process (PID=1534) to work on /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:01:56.987+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2025-10-01T00:01:56.988+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:01:56.988+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:01:56.990+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:01:56.990+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2025-10-01T00:01:56.991+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:01:57.002+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.065 seconds
+[2025-10-01T00:02:27.121+0000] {processor.py:161} INFO - Started process (PID=1542) to work on /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:02:27.122+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2025-10-01T00:02:27.123+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:02:27.123+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:02:27.126+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:02:27.125+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2025-10-01T00:02:27.126+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:02:27.137+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.018 seconds
+[2025-10-01T00:02:57.255+0000] {processor.py:161} INFO - Started process (PID=1550) to work on /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:02:57.256+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2025-10-01T00:02:57.257+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:02:57.257+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:02:57.259+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:02:57.259+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2025-10-01T00:02:57.260+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:02:57.270+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.017 seconds
+[2025-10-01T00:03:27.387+0000] {processor.py:161} INFO - Started process (PID=1558) to work on /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:03:27.388+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2025-10-01T00:03:27.389+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:03:27.389+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:03:27.391+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:03:27.391+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2025-10-01T00:03:27.391+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:03:27.403+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.018 seconds
+[2025-10-01T00:03:57.515+0000] {processor.py:161} INFO - Started process (PID=1566) to work on /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:03:57.516+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2025-10-01T00:03:57.517+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:03:57.517+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:03:57.519+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:03:57.519+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2025-10-01T00:03:57.519+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:03:57.530+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.018 seconds
+[2025-10-01T00:04:27.644+0000] {processor.py:161} INFO - Started process (PID=1574) to work on /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:04:27.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2025-10-01T00:04:27.646+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:04:27.646+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:04:27.648+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:04:27.648+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2025-10-01T00:04:27.648+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:04:27.659+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.017 seconds
+[2025-10-01T00:04:57.779+0000] {processor.py:161} INFO - Started process (PID=1582) to work on /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:04:57.780+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2025-10-01T00:04:57.781+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:04:57.781+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:04:57.783+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:04:57.783+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2025-10-01T00:04:57.783+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:04:57.794+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.018 seconds
+[2025-10-01T00:05:27.923+0000] {processor.py:161} INFO - Started process (PID=1590) to work on /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:05:27.924+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2025-10-01T00:05:27.926+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:05:27.925+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:05:27.928+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:05:27.927+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2025-10-01T00:05:27.928+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:05:27.939+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.017 seconds
+[2025-10-01T00:05:58.054+0000] {processor.py:161} INFO - Started process (PID=1598) to work on /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:05:58.055+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2025-10-01T00:05:58.056+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:05:58.056+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:05:58.058+0000] {logging_mixin.py:188} INFO - [2025-10-01T00:05:58.058+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2025-10-01T00:05:58.058+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2025-10-01T00:05:58.069+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.017 seconds

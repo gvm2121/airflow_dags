@@ -1,0 +1,42 @@
+[2026-01-10T00:00:27.233+0000] {processor.py:161} INFO - Started process (PID=3510) to work on /opt/airflow/dags/dag_traer_csv.py
+[2026-01-10T00:00:27.233+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2026-01-10T00:00:27.234+0000] {logging_mixin.py:188} INFO - [2026-01-10T00:00:27.234+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2026-01-10T00:00:27.237+0000] {logging_mixin.py:188} INFO - [2026-01-10T00:00:27.236+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2026-01-10T00:00:27.237+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2026-01-10T00:00:27.248+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.018 seconds
+[2026-01-10T00:00:57.356+0000] {processor.py:161} INFO - Started process (PID=3518) to work on /opt/airflow/dags/dag_traer_csv.py
+[2026-01-10T00:00:57.356+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2026-01-10T00:00:57.357+0000] {logging_mixin.py:188} INFO - [2026-01-10T00:00:57.357+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2026-01-10T00:00:57.360+0000] {logging_mixin.py:188} INFO - [2026-01-10T00:00:57.359+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2026-01-10T00:00:57.360+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2026-01-10T00:00:57.370+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.017 seconds
+[2026-01-10T00:01:27.483+0000] {processor.py:161} INFO - Started process (PID=3526) to work on /opt/airflow/dags/dag_traer_csv.py
+[2026-01-10T00:01:27.484+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_traer_csv.py for tasks to queue
+[2026-01-10T00:01:27.485+0000] {logging_mixin.py:188} INFO - [2026-01-10T00:01:27.485+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_traer_csv.py
+[2026-01-10T00:01:27.487+0000] {logging_mixin.py:188} INFO - [2026-01-10T00:01:27.487+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/dag_traer_csv.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_traer_csv.py", line 2, in <module>
+    from playwright.sync_api import sync_playwright, expect
+ModuleNotFoundError: No module named 'playwright'
+[2026-01-10T00:01:27.488+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_traer_csv.py
+[2026-01-10T00:01:27.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_traer_csv.py took 0.018 seconds
